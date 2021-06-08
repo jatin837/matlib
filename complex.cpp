@@ -1,4 +1,3 @@
-#include <iostream>
 class Complex {
   private:
     int real, imag;
